@@ -46,7 +46,7 @@ Bot.sendMessage(
   "*🎉 Congratulation , you Received "+bonus+" Points*"
 )
 Api.sendMessage({
-        chat_id: "@cheapestsmmpro",
+        chat_id: "@marocsmm",
         text:
           "*🎉 New User Claimed Bonus 🎉  \n\n🆔 User ID = " +
           user.telegramid +

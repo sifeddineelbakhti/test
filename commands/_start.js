@@ -16,7 +16,7 @@
   group: 
 CMD*/
 
-var button = [[{title:"Private Channel",url:"https://t.me/cheapestsmmpro"}]]
+var button = [[{title:"Private Channel",url:"https://t.me/marocsmm"}]]
 
 Bot.sendInlineKeyboard(button,"💡 You Must Join Our All Channels To Get Payment")
 Bot.sendKeyboard("✅ Joined","After Join All Channels Click the ✅ Joined Button")

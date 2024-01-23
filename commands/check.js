@@ -24,5 +24,5 @@ User.addToGroup("user")
 }
 
 if (user=="left"){
-Bot.sendMessage("*🚫You didn't Joined The Channel\n \n 🚫Join @cheapestsmmpro and try again*")
+Bot.sendMessage("*🚫You didn't Joined The Channel\n \n 🚫Join @marocsmm and try again*")
 }
